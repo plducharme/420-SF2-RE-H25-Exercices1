@@ -7,7 +7,7 @@ class Fruit:
 
 
 pomme = Fruit('pomme', 'rouge', 50)
-print(pomme._nom + '\t' + pomme._rouge + '\t' + str(pomme._poids) + 'g')
+print(pomme._nom + '\t' + pomme._couleur + '\t' + str(pomme._poids) + 'g')
 
 # Quel principe de programmation n'est pas respecté dans le code ci-haut et pourquoi il devrait l'être?
 # Réponse :
